@@ -1,0 +1,4755 @@
+ on 10:15:56table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:15:56table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:18:56
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:18:56
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:21:28
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:21:28
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:22:06
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:22:06
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:23:06
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:23:06
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:25:33
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:25:33
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:32:41
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:32:41
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 50 row
+HopDong_ID 1930 Autoid_His 89111
+HopDong_ID 1930 Autoid_His 89110
+HopDong_ID 1930 Autoid_His 89109
+HopDong_ID 1930 Autoid_His 88396
+HopDong_ID 1930 Autoid_His 88397
+HopDong_ID 1930 Autoid_His 88398
+HopDong_ID 1930 Autoid_His 88399
+HopDong_ID 1930 Autoid_His 88400
+HopDong_ID 1930 Autoid_His 88401
+HopDong_ID 1930 Autoid_His 88402
+HopDong_ID 1930 Autoid_His 88403
+HopDong_ID 1930 Autoid_His 88404
+HopDong_ID 1930 Autoid_His 88405
+HopDong_ID 1930 Autoid_His 88406
+HopDong_ID 1930 Autoid_His 88407
+HopDong_ID 1930 Autoid_His 88408
+HopDong_ID 1930 Autoid_His 88409
+HopDong_ID 1930 Autoid_His 88410
+HopDong_ID 1930 Autoid_His 88411
+HopDong_ID 1930 Autoid_His 88412
+HopDong_ID 1930 Autoid_His 88413
+HopDong_ID 1930 Autoid_His 88414
+HopDong_ID 1930 Autoid_His 88415
+HopDong_ID 1930 Autoid_His 88416
+HopDong_ID 1930 Autoid_His 88417
+HopDong_ID 1930 Autoid_His 88418
+HopDong_ID 1930 Autoid_His 88419
+HopDong_ID 1930 Autoid_His 88420
+HopDong_ID 1930 Autoid_His 88421
+HopDong_ID 1930 Autoid_His 88422
+HopDong_ID 1930 Autoid_His 88423
+HopDong_ID 1930 Autoid_His 88424
+HopDong_ID 1930 Autoid_His 88425
+HopDong_ID 1930 Autoid_His 88426
+HopDong_ID 1930 Autoid_His 88427
+HopDong_ID 1930 Autoid_His 88428
+HopDong_ID 1930 Autoid_His 88429
+HopDong_ID 1930 Autoid_His 88430
+HopDong_ID 1930 Autoid_His 88384
+HopDong_ID 1930 Autoid_His 88385
+HopDong_ID 1930 Autoid_His 88386
+HopDong_ID 1930 Autoid_His 88387
+HopDong_ID 1930 Autoid_His 88388
+HopDong_ID 1930 Autoid_His 88389
+HopDong_ID 1930 Autoid_His 88390
+HopDong_ID 1930 Autoid_His 88391
+HopDong_ID 1930 Autoid_His 88392
+HopDong_ID 1930 Autoid_His 88393
+HopDong_ID 1930 Autoid_His 88394
+HopDong_ID 1930 Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:37:12
+table ksk_hopdong_benhnhan 50 row
+ Autoid_His 89111
+ Autoid_His 89110
+ Autoid_His 89109
+ Autoid_His 88396
+ Autoid_His 88397
+ Autoid_His 88398
+ Autoid_His 88399
+ Autoid_His 88400
+ Autoid_His 88401
+ Autoid_His 88402
+ Autoid_His 88403
+ Autoid_His 88404
+ Autoid_His 88405
+ Autoid_His 88406
+ Autoid_His 88407
+ Autoid_His 88408
+ Autoid_His 88409
+ Autoid_His 88410
+ Autoid_His 88411
+ Autoid_His 88412
+ Autoid_His 88413
+ Autoid_His 88414
+ Autoid_His 88415
+ Autoid_His 88416
+ Autoid_His 88417
+ Autoid_His 88418
+ Autoid_His 88419
+ Autoid_His 88420
+ Autoid_His 88421
+ Autoid_His 88422
+ Autoid_His 88423
+ Autoid_His 88424
+ Autoid_His 88425
+ Autoid_His 88426
+ Autoid_His 88427
+ Autoid_His 88428
+ Autoid_His 88429
+ Autoid_His 88430
+ Autoid_His 88384
+ Autoid_His 88385
+ Autoid_His 88386
+ Autoid_His 88387
+ Autoid_His 88388
+ Autoid_His 88389
+ Autoid_His 88390
+ Autoid_His 88391
+ Autoid_His 88392
+ Autoid_His 88393
+ Autoid_His 88394
+ Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:37:12
+table ksk_hopdong_benhnhan 50 row
+ Autoid_His 89111
+ Autoid_His 89110
+ Autoid_His 89109
+ Autoid_His 88396
+ Autoid_His 88397
+ Autoid_His 88398
+ Autoid_His 88399
+ Autoid_His 88400
+ Autoid_His 88401
+ Autoid_His 88402
+ Autoid_His 88403
+ Autoid_His 88404
+ Autoid_His 88405
+ Autoid_His 88406
+ Autoid_His 88407
+ Autoid_His 88408
+ Autoid_His 88409
+ Autoid_His 88410
+ Autoid_His 88411
+ Autoid_His 88412
+ Autoid_His 88413
+ Autoid_His 88414
+ Autoid_His 88415
+ Autoid_His 88416
+ Autoid_His 88417
+ Autoid_His 88418
+ Autoid_His 88419
+ Autoid_His 88420
+ Autoid_His 88421
+ Autoid_His 88422
+ Autoid_His 88423
+ Autoid_His 88424
+ Autoid_His 88425
+ Autoid_His 88426
+ Autoid_His 88427
+ Autoid_His 88428
+ Autoid_His 88429
+ Autoid_His 88430
+ Autoid_His 88384
+ Autoid_His 88385
+ Autoid_His 88386
+ Autoid_His 88387
+ Autoid_His 88388
+ Autoid_His 88389
+ Autoid_His 88390
+ Autoid_His 88391
+ Autoid_His 88392
+ Autoid_His 88393
+ Autoid_His 88394
+ Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:38:50
+table ksk_hopdong_benhnhan 50 row
+ Autoid_His 89111
+ Autoid_His 89110
+ Autoid_His 89109
+ Autoid_His 88396
+ Autoid_His 88397
+ Autoid_His 88398
+ Autoid_His 88399
+ Autoid_His 88400
+ Autoid_His 88401
+ Autoid_His 88402
+ Autoid_His 88403
+ Autoid_His 88404
+ Autoid_His 88405
+ Autoid_His 88406
+ Autoid_His 88407
+ Autoid_His 88408
+ Autoid_His 88409
+ Autoid_His 88410
+ Autoid_His 88411
+ Autoid_His 88412
+ Autoid_His 88413
+ Autoid_His 88414
+ Autoid_His 88415
+ Autoid_His 88416
+ Autoid_His 88417
+ Autoid_His 88418
+ Autoid_His 88419
+ Autoid_His 88420
+ Autoid_His 88421
+ Autoid_His 88422
+ Autoid_His 88423
+ Autoid_His 88424
+ Autoid_His 88425
+ Autoid_His 88426
+ Autoid_His 88427
+ Autoid_His 88428
+ Autoid_His 88429
+ Autoid_His 88430
+ Autoid_His 88384
+ Autoid_His 88385
+ Autoid_His 88386
+ Autoid_His 88387
+ Autoid_His 88388
+ Autoid_His 88389
+ Autoid_His 88390
+ Autoid_His 88391
+ Autoid_His 88392
+ Autoid_His 88393
+ Autoid_His 88394
+ Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:38:50
+table ksk_hopdong_benhnhan 50 row
+ Autoid_His 89111
+ Autoid_His 89110
+ Autoid_His 89109
+ Autoid_His 88396
+ Autoid_His 88397
+ Autoid_His 88398
+ Autoid_His 88399
+ Autoid_His 88400
+ Autoid_His 88401
+ Autoid_His 88402
+ Autoid_His 88403
+ Autoid_His 88404
+ Autoid_His 88405
+ Autoid_His 88406
+ Autoid_His 88407
+ Autoid_His 88408
+ Autoid_His 88409
+ Autoid_His 88410
+ Autoid_His 88411
+ Autoid_His 88412
+ Autoid_His 88413
+ Autoid_His 88414
+ Autoid_His 88415
+ Autoid_His 88416
+ Autoid_His 88417
+ Autoid_His 88418
+ Autoid_His 88419
+ Autoid_His 88420
+ Autoid_His 88421
+ Autoid_His 88422
+ Autoid_His 88423
+ Autoid_His 88424
+ Autoid_His 88425
+ Autoid_His 88426
+ Autoid_His 88427
+ Autoid_His 88428
+ Autoid_His 88429
+ Autoid_His 88430
+ Autoid_His 88384
+ Autoid_His 88385
+ Autoid_His 88386
+ Autoid_His 88387
+ Autoid_His 88388
+ Autoid_His 88389
+ Autoid_His 88390
+ Autoid_His 88391
+ Autoid_His 88392
+ Autoid_His 88393
+ Autoid_His 88394
+ Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 10:39:09
+table ksk_hopdong_benhnhan 50 row
+ Autoid_His 89111
+ Autoid_His 89110
+ Autoid_His 89109
+ Autoid_His 88396
+ Autoid_His 88397
+ Autoid_His 88398
+ Autoid_His 88399
+ Autoid_His 88400
+ Autoid_His 88401
+ Autoid_His 88402
+ Autoid_His 88403
+ Autoid_His 88404
+ Autoid_His 88405
+ Autoid_His 88406
+ Autoid_His 88407
+ Autoid_His 88408
+ Autoid_His 88409
+ Autoid_His 88410
+ Autoid_His 88411
+ Autoid_His 88412
+ Autoid_His 88413
+ Autoid_His 88414
+ Autoid_His 88415
+ Autoid_His 88416
+ Autoid_His 88417
+ Autoid_His 88418
+ Autoid_His 88419
+ Autoid_His 88420
+ Autoid_His 88421
+ Autoid_His 88422
+ Autoid_His 88423
+ Autoid_His 88424
+ Autoid_His 88425
+ Autoid_His 88426
+ Autoid_His 88427
+ Autoid_His 88428
+ Autoid_His 88429
+ Autoid_His 88430
+ Autoid_His 88384
+ Autoid_His 88385
+ Autoid_His 88386
+ Autoid_His 88387
+ Autoid_His 88388
+ Autoid_His 88389
+ Autoid_His 88390
+ Autoid_His 88391
+ Autoid_His 88392
+ Autoid_His 88393
+ Autoid_His 88394
+ Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+ on 10:39:09
+table ksk_hopdong_benhnhan 50 row
+ Autoid_His 89111
+ Autoid_His 89110
+ Autoid_His 89109
+ Autoid_His 88396
+ Autoid_His 88397
+ Autoid_His 88398
+ Autoid_His 88399
+ Autoid_His 88400
+ Autoid_His 88401
+ Autoid_His 88402
+ Autoid_His 88403
+ Autoid_His 88404
+ Autoid_His 88405
+ Autoid_His 88406
+ Autoid_His 88407
+ Autoid_His 88408
+ Autoid_His 88409
+ Autoid_His 88410
+ Autoid_His 88411
+ Autoid_His 88412
+ Autoid_His 88413
+ Autoid_His 88414
+ Autoid_His 88415
+ Autoid_His 88416
+ Autoid_His 88417
+ Autoid_His 88418
+ Autoid_His 88419
+ Autoid_His 88420
+ Autoid_His 88421
+ Autoid_His 88422
+ Autoid_His 88423
+ Autoid_His 88424
+ Autoid_His 88425
+ Autoid_His 88426
+ Autoid_His 88427
+ Autoid_His 88428
+ Autoid_His 88429
+ Autoid_His 88430
+ Autoid_His 88384
+ Autoid_His 88385
+ Autoid_His 88386
+ Autoid_His 88387
+ Autoid_His 88388
+ Autoid_His 88389
+ Autoid_His 88390
+ Autoid_His 88391
+ Autoid_His 88392
+ Autoid_His 88393
+ Autoid_His 88394
+ Autoid_His 88395
+ksk_hopdong_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 50 row
+ BenhNhan_Id 91233
+ BenhNhan_Id 115454
+ BenhNhan_Id 164421
+ BenhNhan_Id 207380
+ BenhNhan_Id 225483
+ BenhNhan_Id 247034
+ BenhNhan_Id 330213
+ BenhNhan_Id 351333
+ BenhNhan_Id 511741
+ BenhNhan_Id 511743
+ BenhNhan_Id 511744
+ BenhNhan_Id 511745
+ BenhNhan_Id 511748
+ BenhNhan_Id 511749
+ BenhNhan_Id 511751
+ BenhNhan_Id 511753
+ BenhNhan_Id 511755
+ BenhNhan_Id 511756
+ BenhNhan_Id 511757
+ BenhNhan_Id 511758
+ BenhNhan_Id 511760
+ BenhNhan_Id 511761
+ BenhNhan_Id 511763
+ BenhNhan_Id 511765
+ BenhNhan_Id 511766
+ BenhNhan_Id 511767
+ BenhNhan_Id 511768
+ BenhNhan_Id 511769
+ BenhNhan_Id 511770
+ BenhNhan_Id 511771
+ BenhNhan_Id 511772
+ BenhNhan_Id 512045
+ BenhNhan_Id 513122
+ BenhNhan_Id 520487
+ BenhNhan_Id 549748
+ BenhNhan_Id 614442
+ BenhNhan_Id 614443
+ BenhNhan_Id 614444
+ BenhNhan_Id 614445
+ BenhNhan_Id 614447
+ BenhNhan_Id 614448
+ BenhNhan_Id 614449
+ BenhNhan_Id 614450
+ BenhNhan_Id 614451
+ BenhNhan_Id 614452
+ BenhNhan_Id 614453
+ BenhNhan_Id 614454
+ BenhNhan_Id 614455
+ BenhNhan_Id 614456
+ BenhNhan_Id 615773
+ksk_dm_benhnhan has 50 rows -  insserted  countrow50 rows
+ ksk_dm_benhnhan success: true
+ on 14:49:23
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95782
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 14:49:23
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95782
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:32:05
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:32:05
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 10:34:31
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:34:31
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 10:42:05
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 10:42:05
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:48:17
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 10:48:17
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:51:41
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:51:41
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 10:53:12
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:53:12
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
+ on 10:55:13
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+ on 10:55:13
+table ksk_dm_benhnhan 127 row
+ BenhNhan_Id 544159
+ BenhNhan_Id 544174
+ BenhNhan_Id 544186
+ BenhNhan_Id 544199
+ BenhNhan_Id 544217
+ BenhNhan_Id 544242
+ BenhNhan_Id 544243
+ BenhNhan_Id 544252
+ BenhNhan_Id 544259
+ BenhNhan_Id 544262
+ BenhNhan_Id 544264
+ BenhNhan_Id 544267
+ BenhNhan_Id 544275
+ BenhNhan_Id 629989
+ BenhNhan_Id 629990
+ BenhNhan_Id 629991
+ BenhNhan_Id 629992
+ BenhNhan_Id 629993
+ BenhNhan_Id 629994
+ BenhNhan_Id 629995
+ BenhNhan_Id 629996
+ BenhNhan_Id 629997
+ BenhNhan_Id 629998
+ BenhNhan_Id 629999
+ BenhNhan_Id 630000
+ BenhNhan_Id 630001
+ BenhNhan_Id 630002
+ BenhNhan_Id 630003
+ BenhNhan_Id 630004
+ BenhNhan_Id 630005
+ BenhNhan_Id 630006
+ BenhNhan_Id 630007
+ BenhNhan_Id 630008
+ BenhNhan_Id 630009
+ BenhNhan_Id 630010
+ BenhNhan_Id 630011
+ BenhNhan_Id 630012
+ BenhNhan_Id 630013
+ BenhNhan_Id 630014
+ BenhNhan_Id 630015
+ BenhNhan_Id 630016
+ BenhNhan_Id 630017
+ BenhNhan_Id 630018
+ BenhNhan_Id 630019
+ BenhNhan_Id 630020
+ BenhNhan_Id 630021
+ BenhNhan_Id 630022
+ BenhNhan_Id 630023
+ BenhNhan_Id 630024
+ BenhNhan_Id 630025
+ BenhNhan_Id 630026
+ BenhNhan_Id 630027
+ BenhNhan_Id 630028
+ BenhNhan_Id 630029
+ BenhNhan_Id 630030
+ BenhNhan_Id 630031
+ BenhNhan_Id 630032
+ BenhNhan_Id 630033
+ BenhNhan_Id 630034
+ BenhNhan_Id 630035
+ BenhNhan_Id 630037
+ BenhNhan_Id 630038
+ BenhNhan_Id 630039
+ BenhNhan_Id 630040
+ BenhNhan_Id 630041
+ BenhNhan_Id 630042
+ BenhNhan_Id 630043
+ BenhNhan_Id 630044
+ BenhNhan_Id 630045
+ BenhNhan_Id 630046
+ BenhNhan_Id 630047
+ BenhNhan_Id 630048
+ BenhNhan_Id 630049
+ BenhNhan_Id 630050
+ BenhNhan_Id 630051
+ BenhNhan_Id 630052
+ BenhNhan_Id 630053
+ BenhNhan_Id 630054
+ BenhNhan_Id 630055
+ BenhNhan_Id 630056
+ BenhNhan_Id 630057
+ BenhNhan_Id 630058
+ BenhNhan_Id 630059
+ BenhNhan_Id 630060
+ BenhNhan_Id 630061
+ BenhNhan_Id 630062
+ BenhNhan_Id 630063
+ BenhNhan_Id 630064
+ BenhNhan_Id 630065
+ BenhNhan_Id 630066
+ BenhNhan_Id 630067
+ BenhNhan_Id 630068
+ BenhNhan_Id 630069
+ BenhNhan_Id 630070
+ BenhNhan_Id 630071
+ BenhNhan_Id 630072
+ BenhNhan_Id 630073
+ BenhNhan_Id 630074
+ BenhNhan_Id 630075
+ BenhNhan_Id 630076
+ BenhNhan_Id 630077
+ BenhNhan_Id 630078
+ BenhNhan_Id 630079
+ BenhNhan_Id 630080
+ BenhNhan_Id 630081
+ BenhNhan_Id 630082
+ BenhNhan_Id 630083
+ BenhNhan_Id 630084
+ BenhNhan_Id 630085
+ BenhNhan_Id 630086
+ BenhNhan_Id 630087
+ BenhNhan_Id 630088
+ BenhNhan_Id 630089
+ BenhNhan_Id 630090
+ BenhNhan_Id 630091
+ BenhNhan_Id 630092
+ BenhNhan_Id 630093
+ BenhNhan_Id 630094
+ BenhNhan_Id 630095
+ BenhNhan_Id 630096
+ BenhNhan_Id 630097
+ BenhNhan_Id 630098
+ BenhNhan_Id 630099
+ BenhNhan_Id 630100
+ BenhNhan_Id 630101
+ BenhNhan_Id 630102
+ BenhNhan_Id 630103
+ksk_dm_benhnhan has 127 rows -  insserted  countrow127 rows
+ ksk_dm_benhnhan success: true
+table ksk_hopdong_benhnhan 128 row
+ Autoid_His 95904
+ Autoid_His 95862
+ Autoid_His 95861
+ Autoid_His 95859
+ Autoid_His 95858
+ Autoid_His 95853
+ Autoid_His 95852
+ Autoid_His 95847
+ Autoid_His 95846
+ Autoid_His 95835
+ Autoid_His 95834
+ Autoid_His 95831
+ Autoid_His 95828
+ Autoid_His 95827
+ Autoid_His 95826
+ Autoid_His 95825
+ Autoid_His 95824
+ Autoid_His 95820
+ Autoid_His 95819
+ Autoid_His 95818
+ Autoid_His 95816
+ Autoid_His 95815
+ Autoid_His 95813
+ Autoid_His 95808
+ Autoid_His 95804
+ Autoid_His 95784
+ Autoid_His 95783
+ Autoid_His 95780
+ Autoid_His 95775
+ Autoid_His 95766
+ Autoid_His 95767
+ Autoid_His 95768
+ Autoid_His 95769
+ Autoid_His 95770
+ Autoid_His 95771
+ Autoid_His 95772
+ Autoid_His 95773
+ Autoid_His 95774
+ Autoid_His 95750
+ Autoid_His 95751
+ Autoid_His 95752
+ Autoid_His 95753
+ Autoid_His 95754
+ Autoid_His 95755
+ Autoid_His 95756
+ Autoid_His 95757
+ Autoid_His 95758
+ Autoid_His 95759
+ Autoid_His 95760
+ Autoid_His 95761
+ Autoid_His 95762
+ Autoid_His 95763
+ Autoid_His 95764
+ Autoid_His 95765
+ Autoid_His 95776
+ Autoid_His 95777
+ Autoid_His 95778
+ Autoid_His 95779
+ Autoid_His 95781
+ Autoid_His 95782
+ Autoid_His 95805
+ Autoid_His 95806
+ Autoid_His 95807
+ Autoid_His 95785
+ Autoid_His 95786
+ Autoid_His 95787
+ Autoid_His 95788
+ Autoid_His 95789
+ Autoid_His 95790
+ Autoid_His 95791
+ Autoid_His 95792
+ Autoid_His 95793
+ Autoid_His 95794
+ Autoid_His 95795
+ Autoid_His 95796
+ Autoid_His 95797
+ Autoid_His 95798
+ Autoid_His 95799
+ Autoid_His 95800
+ Autoid_His 95801
+ Autoid_His 95802
+ Autoid_His 95803
+ Autoid_His 95809
+ Autoid_His 95810
+ Autoid_His 95811
+ Autoid_His 95812
+ Autoid_His 95814
+ Autoid_His 95817
+ Autoid_His 95821
+ Autoid_His 95822
+ Autoid_His 95823
+ Autoid_His 95829
+ Autoid_His 95830
+ Autoid_His 95832
+ Autoid_His 95833
+ Autoid_His 95836
+ Autoid_His 95837
+ Autoid_His 95838
+ Autoid_His 95839
+ Autoid_His 95840
+ Autoid_His 95841
+ Autoid_His 95842
+ Autoid_His 95843
+ Autoid_His 95844
+ Autoid_His 95845
+ Autoid_His 95860
+ Autoid_His 95863
+ Autoid_His 95848
+ Autoid_His 95849
+ Autoid_His 95850
+ Autoid_His 95851
+ Autoid_His 95854
+ Autoid_His 95855
+ Autoid_His 95856
+ Autoid_His 95857
+ Autoid_His 95749
+ Autoid_His 95741
+ Autoid_His 95739
+ Autoid_His 95737
+ Autoid_His 95738
+ Autoid_His 95740
+ Autoid_His 95742
+ Autoid_His 95743
+ Autoid_His 95744
+ Autoid_His 95745
+ Autoid_His 95746
+ Autoid_His 95747
+ Autoid_His 95748
+ksk_hopdong_benhnhan has 128 rows -  insserted  countrow128 rows
+ ksk_hopdong_benhnhan success true
